@@ -1,3 +1,13 @@
-﻿  MyDirect.cpp
-  HEW_Game.vcxproj -> C:\Users\Dell\Desktop\HEW_Game\Debug\HEW_Game.exe
-  HEW_Game.vcxproj -> C:\Users\Dell\Desktop\HEW_Game\Debug\HEW_Game.pdb (Full PDB)
+﻿  Texture.cpp
+  MyDirect.cpp
+  Main.cpp
+  Magic_Circle.cpp
+c:\program files (x86)\windows kits\8.1\include\um\wingdi.h(114): warning C4005: 'ERROR': マクロが再定義されました。
+  c:\users\dell\desktop\hewproject\hew_game\magic_circle.h(23): note: 'ERROR' の以前の定義を確認してください
+c:\users\dell\desktop\hewproject\hew_game\magic_circle.cpp(35): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\dell\desktop\hewproject\hew_game\magic_circle.cpp(63): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  GameFrame.cpp
+  DXSound.cpp
+  コードを生成中...
+  HEW_Game.vcxproj -> C:\Users\Dell\Desktop\HEWProject\HEW_Game\Debug\HEW_Game.exe
+  HEW_Game.vcxproj -> C:\Users\Dell\Desktop\HEWProject\HEW_Game\Debug\HEW_Game.pdb (Full PDB)
