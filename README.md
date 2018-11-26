@@ -1,0 +1,9 @@
+# HAL-EVENT-WEEK-F-Class-B-Group-Project
+Second Year HEW Team Work
+
+Visual Studio 2015
+Windows SDK     |     8.1
+Tools           |     v140
+DX9c Path       |     C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)
+DX RenderDevice |     #include "MyDirect.h"  ->  MyDirect3D_GetDevice()
+Texture         |     #include "Texture.h"   Function in Header
